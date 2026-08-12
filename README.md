@@ -12,10 +12,10 @@ Cross-Validation sonucunda Logistic Regression için ortalama doğruluk %98.2, R
 Feature Importance analizi sonucunda Price, Reviews, Author_Book_Count ve Weeks on List değişkenlerinin model açısından önemli olduğu görülmüştür. Bu bulgular, kitapların fiyatı, aldığı yorumlar, bestseller listesinde kaldığı süre ve yazarın kitap sayısı gibi özelliklerin kategori tahmininde etkili olabileceğini göstermektedir.
 
 ## Kullanılan Teknolojiler
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
--SHAP
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SHAP
